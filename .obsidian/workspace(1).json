@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "6e9717c505e94145",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f583099101086f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6faae4ba55c96f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230427.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f861c82c7049749f",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d0812271538f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a251e3842613ced6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ac9ddd816aa6ffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6486498806832ce7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5183c073acca622",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ebe6f085d6fe18c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8650b163f4742a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3418ff26436d2a4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20230427.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "668f45874af0afaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20230427.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f71ad72aeac0c4ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea487d2045a7ca0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20230427.md"
+              }
+            }
+          },
+          {
+            "id": "2364f5591eca0418",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0d297f6bf887313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a1fc3badcb7b79",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "6faae4ba55c96f2d",
+  "lastOpenFiles": [
+    "archives/Untitled.md",
+    "daily-notes/2023-05-08.md",
+    "Day Planners/Day Planner-20230509.md",
+    "Day Planners/Day Planner-20230508.md",
+    "Day Planners/Day Planner-20230427.md",
+    "Day Planners/Day Planner-20230504.md",
+    "daily-notes/2023-05-04.md",
+    "projects/2nd-year-project/Notes for software qualities.md",
+    "Day Planners/Day Planner-20230428.md",
+    "Day Planners/Day Planner-20230425.md",
+    "projects/deep-life-overhaul",
+    "projects/2nd-year-project/Old migration to change from ID to UUID.md",
+    "Day Planners/Day Planner-20230502.md",
+    "projects/2nd-year-project",
+    "Day Planners/Day Planner-20230501.md",
+    "archives/Budgetforlig 2023-30 Endelig.pdf",
+    "archives/Frederik som kommentator.mp4",
+    "archives/your_secret_key.pdf",
+    "daily-notes/2023-04-17.md",
+    "daily-notes/2023-04-12.md",
+    "Day Planners",
+    "resources/books/The Rosie Project.md",
+    "archives/Billeder/Portræt_Tromme.jpg",
+    "archives/Billeder/Portræt-JobsAnsøgning.jpg",
+    "archives/Billeder/Portræt-7iO.jpg",
+    "archives/Billeder",
+    "Books/Msc. 2nd Semester/Linear Algebra and probability/Introduction to Probability (Cambridge Mathematical Textbooks) by David F. Anderson, Timo Seppäläinen, Benedek Valkó (z-lib.org).pdf",
+    "Books/Msc. 2nd Semester/Linear Algebra and probability/Elementary Linear Algebra by Ron Larson.pdf",
+    "Books/Msc. 2nd Semester/Probabilistic Programming/Statistical Rethinking A Bayesian Course with Examples in R and STAN by Richard McElreath.pdf",
+    "projects/ISE-group4/project hours.PNG",
+    "areas/Musik/Ensembler/Tidligere/7iO/Visitkort/Udkast 6 (endeligt).png",
+    "areas/Musik/Ensembler/Tidligere/7iO/Visitkort/Udkast 1b (Side 1).png",
+    "areas/Musik/Ensembler/Tidligere/7iO/Visitkort/12916231_1138722602827894_5712873395046929603_o.png",
+    "areas/Musik/Undervisning/Max/MaxPrivate/ØvePlan.md",
+    "areas/Musik/791adbbb-46c9-37d1-3c64-bc95b10a2d64.jpg",
+    "resources/Opskrifter/Pizza/Thin & Crisp Pizza.md",
+    "resources/Opskrifter/Pizza/Neopolitan Pizza.md",
+    "kerneværdier.md",
+    "re.md",
+    "minimalisme.md",
+    "resources/personer/Cal Newport.md",
+    "resources/books/Begge Sider.md",
+    "resources/books/Why We Sleep.md",
+    "resources/books/Arbejd Dybt.md"
+  ]
+}

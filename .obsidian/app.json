@@ -1,0 +1,13 @@
+{
+  "showInlineTitle": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showLineNumber": true,
+  "spellcheckDictionary": [
+    "big-band",
+    "big-band",
+    "big-band"
+  ]
+}
